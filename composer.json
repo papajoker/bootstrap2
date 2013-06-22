@@ -1,0 +1,20 @@
+{
+    "name": "papajoker/bootstrap2",
+    "description": "",
+    "authors": [
+        {
+            "name": "papajoker",
+            "email": "info@laravel.fr"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.0.x"
+    },
+    "autoload": {
+        "psr-0": {
+            "Papajoker\\Bootstrap2": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
